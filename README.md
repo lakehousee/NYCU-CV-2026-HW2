@@ -31,10 +31,5 @@ bash
 zip submission.zip pred.json
 
 ## Performance Snapshot
-- Model: DETR ResNet-50
-- Epochs: 15
-- mAP: 0.3797
-- Input size: 480 × 480
-- Classes: 10 digits (0–9)
+<img width="1920" height="6147" alt="image" src="https://github.com/user-attachments/assets/23c8f249-feb7-4953-b8a2-3ad920dae4e8" />
 
-<img width="1920" height="5860" alt="image" src="https://github.com/user-attachments/assets/PUT-YOUR-IMAGE-HERE" />
